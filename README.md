@@ -13,7 +13,7 @@ A Python-based web scraping tool designed to automatically extract and parse pro
   * Publication date and Verified Purchase timestamp
 * **Error Handling:** Robust handling for optional HTML fields and missing tags.
 
-## Tech Sstack
+## Tech stack
 
 * **Python**
 * **BeautifulSoup** — HTML parsing and DOM navigation
